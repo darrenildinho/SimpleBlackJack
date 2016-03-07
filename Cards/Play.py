@@ -74,7 +74,7 @@ if one==p:
         pass
         
             
-    
+  '''wish'''  
     
 if play == 21:
     playerm+=bet*3
